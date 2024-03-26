@@ -9,4 +9,7 @@ Team Members: Nicholas Romano, Michael Zelaya
 <a href = "https://video.bellarmine.edu/media/Team%20Mini%20Project%202%3A%20CAPO%20and%20Time%20to%20Clinical%20Stability%20%20Presentation/1_idawr6b5"> CAPO and Time to Clinical Stability Video Presentation</a>   
 
 ## Chemical Manufacturing Analysis  
-<a href = "https://video.bellarmine.edu/media/Chemical%20Manufacturing%20Analysis%20Presentation%20Video/1_u43rp8j5"> Chemical Manufacturing Analysis Video Presentation</a>  
+<a href = "https://video.bellarmine.edu/media/Chemical%20Manufacturing%20Analysis%20Presentation%20Video/1_u43rp8j5"> Chemical Manufacturing Analysis Video Presentation</a>    
+
+## Sakila Database
+<a href = "https://video.bellarmine.edu/media/Writing%20SQL%20Queries%20Presentation%20Video/1_wpco4cbi">Writing SQL Queries- Sakila Database Video Presentation</a>     
